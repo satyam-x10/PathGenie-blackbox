@@ -1,11 +1,6 @@
-require('dotenv').config();
-const { GoogleGenerativeAI } = require("@google/generative-ai");
-
-// Initialize Gemini API
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
+const { askFromGemini } = require('./gemini');
 
 async function generateLearningPrompt() {
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
 
     // Get initial input from user
     let initialInput = "I want to learn  ";
@@ -13,15 +8,17 @@ async function generateLearningPrompt() {
 
     while (!isSpecific) {
         console.log("What would you like to learn?");
-        initialInput = initialInput+" "+ await getUserInput();
+        initialInput =  await getUserInput();
+        console.log(`\nGenerating a learning prompt for: "${initialInput}"`);
         
         // Check if the topic is specific enough
-        const specificityCheck = await model.generateContent(`
-            Analyze if this learning interest is specific enough: "${initialInput}"
-            Respond with only:
-            SPECIFIC: true/false
-            REASON: brief explanation why
-        `);
+        const evaluationString=`
+            Evaluate the following learning interest: "${initialInput}". 
+            Determine if it is a valid and suitable niche for learning. 
+            Respond with:
+            SPECIFIC: true (if the interest is appropriate) or false (if it is not).
+        `;
+        const specificityCheck = await askFromGemini(evaluationString);
 
         const checkResult = specificityCheck.response.text();
         isSpecific = checkResult.includes("SPECIFIC: true");
@@ -32,14 +29,15 @@ async function generateLearningPrompt() {
     }
 
     // Generate the learning prompt
-    const promptGeneration = await model.generateContent(`
+    const promptGenerationString = `
         Generate a clear and concise prompt for learning: "${initialInput}"
         The prompt should be 2-3 sentences maximum focusing on:
         - What exactly needs to be learned
         - The specific goal or outcome
         Do not include any resource suggestions or learning path details.
         Keep it focused and direct.
-    `);
+    `;
+    const promptGeneration = await askFromGemini(promptGenerationString);
     
     return promptGeneration.response.text();
 }
