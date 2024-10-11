@@ -1,0 +1,1995 @@
+[
+    {
+        "taskId": "1",
+        "taskTitle": "Guitar Fundamentals",
+        "subTask": [
+            2,
+            3,
+            4
+        ],
+        "taskDescription": "Learn the basics of music theory and guitar technique to build a solid foundation for your guitar playing.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "music theory",
+            "guitar technique",
+            "basic songs",
+            "fingerstyle arrangements"
+        ]
+    },
+    {
+        "taskId": "2",
+        "taskTitle": "Music Theory",
+        "subTask": [
+            5,
+            6
+        ],
+        "taskDescription": "Understand the essential concepts of music theory including notes, intervals, scales, and chords.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "music theory",
+            "scales",
+            "chords",
+            "intervals"
+        ]
+    },
+    {
+        "taskId": "3",
+        "taskTitle": "Guitar Technique",
+        "subTask": [
+            7,
+            8
+        ],
+        "taskDescription": "Develop your right-hand and left-hand techniques to enhance your guitar playing skills.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "guitar technique",
+            "right-hand",
+            "left-hand"
+        ]
+    },
+    {
+        "taskId": "4",
+        "taskTitle": "Practical Application",
+        "subTask": [
+            9,
+            10
+        ],
+        "taskDescription": "Apply your guitar skills by learning basic songs and fingerstyle arrangements.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "basic songs",
+            "fingerstyle arrangements"
+        ]
+    },
+    {
+        "taskId": "5",
+        "taskTitle": "Notes and Intervals",
+        "subTask": [
+            11,
+            12,
+            13
+        ],
+        "taskDescription": "Learn the musical alphabet, sharps and flats, and understand the difference between major and minor intervals.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "notes",
+            "intervals",
+            "musical alphabet",
+            "sharps",
+            "flats"
+        ]
+    },
+    {
+        "taskId": "6",
+        "taskTitle": "Scales and Chords",
+        "subTask": [
+            14,
+            15,
+            16
+        ],
+        "taskDescription": "Master major and minor scales, triads, inversions, and seventh chords.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "scales",
+            "chords",
+            "triads",
+            "seventh chords"
+        ]
+    },
+    {
+        "taskId": "7",
+        "taskTitle": "Right-Hand Technique",
+        "subTask": [
+            17,
+            18,
+            19
+        ],
+        "taskDescription": "Improve your picking, strumming, fingerstyle, and hybrid picking techniques.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "right-hand technique",
+            "picking",
+            "strumming",
+            "fingerstyle",
+            "hybrid picking"
+        ]
+    },
+    {
+        "taskId": "8",
+        "taskTitle": "Left-Hand Technique",
+        "subTask": [
+            20,
+            21,
+            22
+        ],
+        "taskDescription": "Enhance your left-hand technique with fingering, barre chords, and vibrato.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "left-hand technique",
+            "fingering",
+            "barre chords",
+            "vibrato"
+        ]
+    },
+    {
+        "taskId": "9",
+        "taskTitle": "Basic Songs",
+        "subTask": [
+            23,
+            24,
+            25
+        ],
+        "taskDescription": "Learn how to play basic songs, focusing on rhythm, lead guitar parts, and chord progressions.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "basic songs",
+            "rhythm guitar",
+            "lead guitar",
+            "chord progressions"
+        ]
+    },
+    {
+        "taskId": "10",
+        "taskTitle": "Fingerstyle Arrangements",
+        "subTask": [
+            26,
+            27,
+            28
+        ],
+        "taskDescription": "Master fingerstyle guitar playing with open tunings, acoustic fingerpicking patterns, and Travis picking.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "fingerstyle",
+            "open tunings",
+            "fingerpicking",
+            "travis picking"
+        ]
+    },
+    {
+        "taskId": "11",
+        "taskTitle": "Musical Alphabet",
+        "subTask": [],
+        "taskDescription": "Learn the notes of the musical alphabet and their positions on the guitar.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "musical alphabet",
+            "notes"
+        ]
+    },
+    {
+        "taskId": "12",
+        "taskTitle": "Sharps and Flats",
+        "subTask": [],
+        "taskDescription": "Understand the concept of sharps and flats and how they apply to the guitar fretboard.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "sharps",
+            "flats",
+            "notes"
+        ]
+    },
+    {
+        "taskId": "13",
+        "taskTitle": "Major and Minor Intervals",
+        "subTask": [],
+        "taskDescription": "Learn the difference between major and minor intervals and how they shape musical harmony.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "intervals",
+            "major",
+            "minor"
+        ]
+    },
+    {
+        "taskId": "14",
+        "taskTitle": "Major and Minor Scales",
+        "subTask": [],
+        "taskDescription": "Master major and minor scales and their positions across the guitar neck.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "scales",
+            "major",
+            "minor"
+        ]
+    },
+    {
+        "taskId": "15",
+        "taskTitle": "Triads and Inversions",
+        "subTask": [],
+        "taskDescription": "Learn how to construct triads and their inversions to create richer harmonic progressions.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "triads",
+            "inversions",
+            "chords"
+        ]
+    },
+    {
+        "taskId": "16",
+        "taskTitle": "Seventh Chords",
+        "subTask": [],
+        "taskDescription": "Explore seventh chords and their use in jazz, blues, and popular music.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "seventh chords",
+            "chords"
+        ]
+    },
+    {
+        "taskId": "17",
+        "taskTitle": "Picking and Strumming",
+        "subTask": [],
+        "taskDescription": "Develop proper picking and strumming techniques for rhythm and lead guitar playing.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "picking",
+            "strumming",
+            "right-hand"
+        ]
+    },
+    {
+        "taskId": "18",
+        "taskTitle": "Fingerstyle",
+        "subTask": [],
+        "taskDescription": "Improve your fingerstyle guitar playing for both acoustic and electric guitar.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "fingerstyle",
+            "right-hand"
+        ]
+    },
+    {
+        "taskId": "19",
+        "taskTitle": "Hybrid Picking",
+        "subTask": [],
+        "taskDescription": "Learn hybrid picking techniques to play more complex melodies and harmonies.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "hybrid picking",
+            "right-hand"
+        ]
+    },
+    {
+        "taskId": "20",
+        "taskTitle": "Fingering",
+        "subTask": [],
+        "taskDescription": "Master proper finger positioning and movement for smooth and efficient guitar playing.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "fingering",
+            "left-hand"
+        ]
+    },
+    {
+        "taskId": "21",
+        "taskTitle": "Barre Chords",
+        "subTask": [],
+        "taskDescription": "Learn to play barre chords, an essential skill for any guitarist.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "barre chords",
+            "left-hand"
+        ]
+    },
+    {
+        "taskId": "22",
+        "taskTitle": "Vibrato",
+        "subTask": [],
+        "taskDescription": "Develop your vibrato technique to add expression and dynamics to your playing.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "vibrato",
+            "left-hand"
+        ]
+    },
+    {
+        "taskId": "23",
+        "taskTitle": "Rhythm and Lead Guitar Parts",
+        "subTask": [],
+        "taskDescription": "Learn to play both rhythm and lead guitar parts in basic songs.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "rhythm guitar",
+            "lead guitar"
+        ]
+    },
+    {
+        "taskId": "24",
+        "taskTitle": "Chord Progressions",
+        "subTask": [],
+        "taskDescription": "Master common chord progressions used in popular music.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "chord progressions",
+            "guitar"
+        ]
+    },
+    {
+        "taskId": "25",
+        "taskTitle": "Song Structures",
+        "subTask": [],
+        "taskDescription": "Understand basic song structures and how to apply them to your guitar playing.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "song structures",
+            "guitar"
+        ]
+    },
+    {
+        "taskId": "26",
+        "taskTitle": "Open Tunings",
+        "subTask": [],
+        "taskDescription": "Explore open tunings and how they can expand your fingerstyle playing.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "open tunings",
+            "fingerstyle"
+        ]
+    },
+    {
+        "taskId": "27",
+        "taskTitle": "Acoustic Fingerpicking Patterns",
+        "subTask": [],
+        "taskDescription": "Learn various acoustic fingerpicking patterns for more dynamic playing.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "fingerpicking",
+            "acoustic guitar"
+        ]
+    },
+    {
+        "taskId": "28",
+        "taskTitle": "Travis Picking",
+        "subTask": [],
+        "taskDescription": "Master the Travis picking technique, a staple of fingerstyle guitar.",
+        "resources": {
+            "Guitar Fundamentals": [
+                {
+                    "Music Theory": [
+                        {
+                            "Notes and Intervals": [
+                                "Musical Alphabet",
+                                "Sharps and Flats",
+                                "Major and Minor Intervals"
+                            ]
+                        },
+                        {
+                            "Scales and Chords": [
+                                "Major and Minor Scales",
+                                "Triads and Inversions",
+                                "Seventh Chords"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Guitar Technique": [
+                        {
+                            "Right-Hand Technique": [
+                                "Picking and Strumming",
+                                "Fingerstyle",
+                                "Hybrid Picking"
+                            ]
+                        },
+                        {
+                            "Left-Hand Technique": [
+                                "Fingering",
+                                "Barre Chords",
+                                "Vibrato"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "Practical Application": [
+                        {
+                            "Basic Songs": [
+                                "Rhythm and Lead Guitar Parts",
+                                "Chord Progressions",
+                                "Song Structures"
+                            ]
+                        },
+                        {
+                            "Fingerstyle Arrangements": [
+                                "Open Tunings",
+                                "Acoustic Fingerpicking Patterns",
+                                "Travis Picking"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "similarTasks": [],
+        "tags": [
+            "travis picking",
+            "fingerstyle"
+        ]
+    }
+]
