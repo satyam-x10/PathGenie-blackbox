@@ -1,5 +1,5 @@
-const { askFromGemini } = require('./gemini');
-
+import { askFromGemini } from './gemini.js';
+import readline from 'readline';
 async function generateLearningPrompt() {
 
     // Get initial input from user
@@ -9,7 +9,7 @@ async function generateLearningPrompt() {
     while (!isSpecific) {
         console.log("What would you like to learn?");
         initialInput =  await getUserInput();
-        console.log(`\nGenerating a learning prompt for: "${initialInput}"`);
+        // console.log(`\nGenerating a learning prompt for: "${initialInput}"`);
         
         // Check if the topic is specific enough
         const evaluationString=`
@@ -21,8 +21,8 @@ async function generateLearningPrompt() {
         const specificityCheck = await askFromGemini(evaluationString);
 
         const checkResult = specificityCheck.response.text();
-        isSpecific = checkResult.includes("SPECIFIC: true");
-
+        // isSpecific = checkResult.includes("SPECIFIC: true");
+        isSpecific=true;
         if (!isSpecific) {
             console.log("\nPlease be more specific about what you want to learn.");
         }
@@ -44,28 +44,25 @@ async function generateLearningPrompt() {
 
 function getUserInput() {
     return new Promise((resolve) => {
-        const readline = require('readline').createInterface({
+        const line = readline.createInterface({
             input: process.stdin,
             output: process.stdout
         });
 
-        readline.question('> ', (answer) => {
-            readline.close();
+        line.question('> ', (answer) => {
+            line.close();
             resolve(answer);
         });
     });
 }
 
-async function main() {
+export async function generatePrompt() {
     try {
         const prompt = await generateLearningPrompt();
-        if (prompt) {
-            console.log("\nGenerated Learning Prompt:");
-            console.log(prompt);
+        if (prompt) {          
+           return prompt;
         }
     } catch (error) {
         console.error("An error occurred:", error);
     }
 }
-
-main();
